@@ -1,9 +1,9 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "PlainFolders",
+    "description": "Replaces folder icon with the deafult one.",
     "authors": [
         {
-            "name": "You!",
+            "name": "hi sora",
             "id": "YOUR_ID_HERE"
         }
     ],
