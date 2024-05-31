@@ -1,0 +1,14 @@
+{
+    "name": "PlainFolders",
+    "description": "Replaces folder icon with the deafult one.",
+    "authors": [
+        {
+            "name": "hi sora",
+            "id": "1084235139715977247"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
